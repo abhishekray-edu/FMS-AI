@@ -1,0 +1,6 @@
+# Build artifacts
+/build/
+/booking_system
+
+# VS Code configs
+.vscode/
